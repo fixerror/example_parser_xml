@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accounts>
+	<account email="ra@gmail.com" login="fixerror1">
+		<name>Aleksandr</name>
+		<telephone>12345</telephone>
+		<address>
+			<city>Kharkiv</city>
+			<country>UA</country>
+			<street>Strit 1</street>
+		</address>
+	</account>
+	<account email="ra@gmail.com" login="fixerror2">
+		<name>Aleksandr</name>
+		<telephone>54321</telephone>
+		<address>
+			<city>Kharkiv</city>
+			<country>UA</country>
+			<street>Strit 2</street>
+		</address>
+	</account>
+</accounts>

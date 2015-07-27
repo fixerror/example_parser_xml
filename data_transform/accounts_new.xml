@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><accounts>
+	<account email="ra@gmail.com"><name>Aleksandr</name><address country="UA" city="Kharkiv" street="Strit 1"><telephone number="12345"/></address></account>
+	<account email="ra@gmail.com"><name>Aleksandr</name><address country="UA" city="Kharkiv" street="Strit 2"><telephone number="54321"/></address></account>
+</accounts>
